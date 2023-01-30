@@ -1,0 +1,4 @@
+.shoesContainer {
+  display: flex;
+  flex-wrap: wrap;
+}

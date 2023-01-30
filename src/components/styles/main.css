@@ -1,0 +1,20 @@
+.main-app ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  list-style: none;
+  background-color: blueviolet;
+  color: white;
+  height: 100px;
+}
+.main-app a {
+  color: white;
+  font-size: xx-large;
+  text-decoration: none;
+}
+
+.main-app a:hover {
+  color: rgb(23, 133, 127);
+  text-decoration: none;
+}
